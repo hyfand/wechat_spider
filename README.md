@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # wechat_spider
 nodejs+anyproxy / appium+python 自动化抓取微信公众号文章 
 =======
@@ -94,4 +93,3 @@ mongoexport --db wechat_spider --collection posts --type=csv --fields title,link
 
 以上命令会导出数据至桌面的`posts.csv` 中。具体的个性化导出请参考MongoDB 文档或者自己编写。
 
->>>>>>> first commit
