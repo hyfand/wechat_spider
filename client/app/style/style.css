@@ -1,0 +1,11 @@
+body {
+  padding-left: 100px;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier;
+}
+
+.wrapper {
+  box-sizing: border-box;
+  width: 100%;
+  padding:0 20px;
+  margin: 10px auto;
+}
