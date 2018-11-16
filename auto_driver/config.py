@@ -13,7 +13,7 @@ COMMENTS_COL = 'comments'
 CATE_COL = 'categories'
 
 # REMOTE_HOST = 'http://192.168.1.6:5001'
-REMOTE_HOST = 'http://101.200.52.207:5001'
+REMOTE_HOST = '保密'
 
 # elastic_info
 # test_server
@@ -28,10 +28,10 @@ ES = {
 
 # server_2
 ES = {
-    'host': '101.200.52.207',
+    'host': '保密',
     'port': 9200,
     'auth': 'elastic',
-    'password': 'HbbQH2O94w54X6LKSioz',
+    'password': '保密',
     'index': 'hooyuu-wemedia',
     'index_total': 'hooyuu-total',
     'doc_type': 'news',
