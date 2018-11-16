@@ -31,7 +31,7 @@ ES = {
     'host': '101.200.52.207',
     'port': 9200,
     'auth': 'elastic',
-    'password': 'HbbQH2O94w54X6LKSioz',
+    'password': '',
     'index': 'hooyuu-wemedia',
     'index_total': 'hooyuu-total',
     'doc_type': 'news',
